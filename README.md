@@ -38,3 +38,21 @@ here is your first taste of documentation, don’t get scared now : https://docs
 or you can search YouTube: https://www.youtube.com/watch?v=wTsm_lDi_OU
 
 If however you like to try a Linux distro to see if you like it or not, the most convenient way is to use Ventoy: https://www.ventoy.net/en/download.html
+
+Now that you are ready to install Linux, look up a YouTube guide if you need it.
+
+Now go this website : https://www.flatpak.org/setup/
+
+After that open the terminal, copy and paste this
+
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
+this will enable Flathub, the best online Flatpak repo as of writing.
+
+Now search for any app and simply copy and paste the install command.
+
+![installcomand](https://user-images.githubusercontent.com/23434177/235344434-bb88a1b7-f084-453d-aa36-973e6e3e157c.jpg)
+
+this for example will install Steam
+
+flatpak install flathub com.valvesoftware.Steam
