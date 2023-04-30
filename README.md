@@ -22,10 +22,7 @@ If you are a beginner: the most convenient way is to use Fedora Workstation
 
 the official Fedora uses Gnome DE, if you click on spins, you can also use Fedora KDE DE.
 
-![fedoramediasettings](https://user-images.githubusercontent.com/23434177/235343924-62bcfee1-d46d-4644-8250-ea6e99c7f158.png)
-
-![fedorakde](https://user-images.githubusercontent.com/23434177/235343937-268cf11b-b398-4d82-bdfb-5c8291acbbb6.jpg)
-
+![fedoramediaa](https://user-images.githubusercontent.com/23434177/235347329-af643f5d-772c-46fd-a223-91db4bc5a16b.png)
 
 If however you want some challenge and want to learn more, there are people like that, I personally recommend Fedora Silver. You can use Fedora Media Writer to get it under Emerging Editions.
 You will learn about Containers and Toolboxes and so much more.
@@ -97,11 +94,8 @@ The next step is to configure Steam itself to use Proton, and GE proton.
 First open Steam and go to setting – steam play and change setting look like this 
 ![settingssteamplay](https://user-images.githubusercontent.com/23434177/235346427-b3c72377-0dd6-4d24-bcd2-198f9b79dbe8.png)
 
-then open Proton-qt make sure it says Steam on top, and click on Add version and choose the latest GE Proton
-![Screenshot from 2023-04-30 12-30-10](https://user-images.githubusercontent.com/23434177/235346462-dbf4dc28-5563-4c27-a58e-fa01757701d8.png)
-
-as of writing its 7.55
-![Screenshot from 2023-04-30 12-30-26](https://user-images.githubusercontent.com/23434177/235346511-5db4a031-3c8b-4ab7-bb79-eb4439bec79e.png)
+then open Proton-qt make sure it says Steam on top, and click on Add version and choose the latest GE Proton, as of writing its 7.55
+![protn](https://user-images.githubusercontent.com/23434177/235347354-bb3dad2d-2771-4a54-8f5d-fb1cade9622b.png)
 
 Now go to any game in your Steam Library, right click and click on Properties then Compatibility
 ![Screenshot from 2023-04-30 12-36-12](https://user-images.githubusercontent.com/23434177/235346681-01beaa0a-042d-403e-97a4-a6ac8c81deff.png)
