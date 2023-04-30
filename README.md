@@ -99,6 +99,7 @@ First open Steam and go to setting – steam play and change setting look like t
 
 then open Proton-qt make sure it says Steam on top, and click on Add version and choose the latest GE Proton
 ![Screenshot from 2023-04-30 12-30-10](https://user-images.githubusercontent.com/23434177/235346462-dbf4dc28-5563-4c27-a58e-fa01757701d8.png)
+
 as of writing its 7.55
 ![Screenshot from 2023-04-30 12-30-26](https://user-images.githubusercontent.com/23434177/235346511-5db4a031-3c8b-4ab7-bb79-eb4439bec79e.png)
 
@@ -107,4 +108,14 @@ Now go to any game in your Steam Library, right click and click on Properties th
 
 The rule of thump is this, use Expermental, if it does not work, or if cut-scenes don't work, use GE Proton.
 
+What to do when a game doesn't work either way.
+
+1st go this website https://www.protondb.com/ and search for the game, your problem might have been solved by someone else, this works for me most of time. That is not say it happenes alot, it doesn't.
+
+2nd, if 1st fails, go this website https://github.com/ValveSoftware/Proton/issues and search the games' name here, most gamers don't have to do this, I only did this 2 times in over 4 years, and both times the problems were fixed.
+
+Here is an example: the name of the game is WARRIORS OROCHI 3 Ultimate Definitive Edition 
+https://github.com/ValveSoftware/Proton/issues/6006
+
+![Screenshot from 2023-04-30 12-57-25](https://user-images.githubusercontent.com/23434177/235347067-9f84e567-1613-42a9-84f3-1877822cf1a5.png)
 
