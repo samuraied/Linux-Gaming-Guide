@@ -93,3 +93,18 @@ The HDD named 2-boot-y, 2Booty for short, is for games where loading times don�
 The SSD named 2-boot-x, 2Bootx for short, is for games that do require or simply support fast loading, like Warframe and Nintendo switch emulators like Yuzu etc….
 
 The next step is to configure Steam itself to use Proton, and GE proton.
+
+First open Steam and go to setting – steam play and change setting look like this 
+![settingssteamplay](https://user-images.githubusercontent.com/23434177/235346427-b3c72377-0dd6-4d24-bcd2-198f9b79dbe8.png)
+
+then open Proton-qt make sure it says Steam on top, and click on Add version and choose the latest GE Proton
+![Screenshot from 2023-04-30 12-30-10](https://user-images.githubusercontent.com/23434177/235346462-dbf4dc28-5563-4c27-a58e-fa01757701d8.png)
+as of writing its 7.55
+![Screenshot from 2023-04-30 12-30-26](https://user-images.githubusercontent.com/23434177/235346511-5db4a031-3c8b-4ab7-bb79-eb4439bec79e.png)
+
+Now go to any game in your Steam Library, right click and click on Properties then Compatibility
+![Screenshot from 2023-04-30 12-36-12](https://user-images.githubusercontent.com/23434177/235346681-01beaa0a-042d-403e-97a4-a6ac8c81deff.png)
+
+The rule of thump is this, use Expermental, if it does not work, or if cut-scenes don't work, use GE Proton.
+
+
