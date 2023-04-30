@@ -35,6 +35,6 @@ Regardless of your choice, have fun.
 Once you choose you Linux distro you can use any tool you want to write it to a USB, for convience sake, you can use Fedora Media Writer to write any Linux ISO to a USB, including Ubuntu etc…
 here is your first taste of documentation, don’t get scared now : https://docs.fedoraproject.org/en-US/quick-docs/creating-and-using-a-live-installation-image/
 
-or you can search youtube: https://www.youtube.com/watch?v=wTsm_lDi_OU
+or you can search YouTube: https://www.youtube.com/watch?v=wTsm_lDi_OU
 
 If however you like to try a Linux distro to see if you like it or not, the most convenient way is to use Ventoy: https://www.ventoy.net/en/download.html
