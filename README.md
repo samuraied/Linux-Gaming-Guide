@@ -56,3 +56,35 @@ Now search for any app and simply copy and paste the install command.
 this for example will install Steam
 
 flatpak install flathub com.valvesoftware.Steam
+
+For starters here is a command you need to paste in your terminal:
+
+flatpak install flathub com.valvesoftware.Steam net.davidotek.pupgui2 com.github.tchx84.Flatseal
+
+This command will install Steam if you haven't installed already, and Proton-qt and Flatseal
+
+open Flatseal and click on Steam and make sure the configuration is similar to this, notice the arrow.
+
+![flatseal](https://user-images.githubusercontent.com/23434177/235345839-4d5b2584-4766-4be8-8ffa-57e49a988f75.png)
+
+Note: if your internet is fast and you don’t mind downloading your games later or every time you want to try a new Linux distro, skip this step.
+
+In this step we will install all of our games onto an external HDD or external SSD, the only difference I witnessed is loading times, other than that, there wasn’t much difference.
+This will allow you to switch your Linux distro as many times as you want, and play as soon as possible.
+Make sure to format your HDD/SSD to btrfs format. Look up how to do it, this will come in handy later.
+
+Plug-in your external HDD/SSD after formatting, and create a new folder called SteamLibrary
+
+in Steam after you log-in, click on settings → downloads → Steam Library Folders
+click the (+) sign and add a new library on your hard drive.
+Click the the 3 dots … and click make default.
+
+It should look something like this
+
+![steamlibrary](https://user-images.githubusercontent.com/23434177/235345866-12f2617f-64de-4683-9337-537ca9b8ba5d.png)
+
+Personally I have 2 external storage devices, 1 HDD 5 teras, and 1 SSD 2 teras.
+The HDD named 2-boot-y, 2Booty for short, is for games where loading times don’t matter, like Dynasty Warriors, final fantasy x/x2 and old emulators like ps1, ps2 etc….
+The SSD named 2-boot-x, 2Bootx for short, is for games that do require or simply support fast loading, like Warframe and Nintendo switch emulators like Yuzu etc….
+
+The next step is to configure Steam itself to use Proton, and GE proton.
