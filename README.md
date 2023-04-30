@@ -12,7 +12,7 @@ If you are a beginner, don’t be afraid, this is a lot easier that you imagine,
 
 If you would like to save time, here is list of recommendation, you can’t go wrong with any, and there is a lot of convenience factors that I have taken into consideration.
 
-If you are a completely new to Linux I recommend[pop!_os](https://pop.system76.com/) 
+If you are a completely new to Linux I recommend [pop!_os](https://pop.system76.com/) 
 
 If you are a beginner: the most convenient way is to use Fedora Workstation
 
